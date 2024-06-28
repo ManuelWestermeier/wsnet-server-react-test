@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "wsnet-server": "^1.0.13"
+  },
+  "type": "module"
+}
